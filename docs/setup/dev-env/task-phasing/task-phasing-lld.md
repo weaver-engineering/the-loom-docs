@@ -5,6 +5,7 @@
 Ported from magpie-weaver's own task-phasing LLD (`magpieweaver-docs/docs/setup/dev-env/task-phasing/task-phasing-lld.md`) as part of WVR-52 — the-loom is now the canonical home of this design, not magpie-weaver's background/glossary/HLD docs, so those cross-links are dropped rather than left dangling.
 
 - [Gate Checks Design](../gate-checks/gate-checks-lld.md) - Low level design for the phase gate checks.
+- @docs/onboarding/dev-environment-setup.md - the-loom publishes this package to GitHub Packages as `@weaver-engineering/task-phases`; see this doc for how a new machine authenticates to consume it.
 
 ## 1. System Details
 

@@ -4,6 +4,8 @@
 
 Ported from magpie-weaver's own gate-checks LLD (`magpieweaver-docs/docs/setup/dev-env/gate-checks/gate-checks-lld.md`) as part of WVR-52 — the-loom is now the canonical home of this design, not magpie-weaver's background/glossary/HLD docs, so those cross-links are dropped rather than left dangling.
 
+- @docs/onboarding/dev-environment-setup.md - the-loom publishes this package to GitHub Packages as `@weaver-engineering/gate-checks`; see this doc for how a new machine authenticates to consume it.
+
 ## 1. System Details
 
 ### 1.1 Overview
